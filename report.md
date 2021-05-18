@@ -25,6 +25,6 @@
 * JCB: 3529496959396595, 3528771281195159
 
 Тестирование производилось в следующем окружении:
-* Windows 10 Pro
+* Windows 10 Pro 64-bit
 * openjdk version "11.0.10"
 * IntelliJ IDEA 2021.1.1 (Community Edition)
